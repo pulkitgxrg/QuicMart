@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![HTML](https://img.shields.io/badge/Built_with-HTML-blue)
 
-![QuicMart](https://socialify.git.ci/pulkitgarg04/QuicMart/image?language=1&name=1&owner=1&theme=Dark)
+![QuicMart](https://socialify.git.ci/pulkitgxrg/QuicMart/image?language=1&name=1&owner=1&theme=Dark)
 
 QuicMart is an online e-commerce store designed using HTML, CSS, and JavaScript. It showcases a user-friendly interface for browsing products, managing a cart, and making purchases, delivering a seamless shopping experience.
 
@@ -18,7 +18,7 @@ QuicMart is an online e-commerce store designed using HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pulkitgarg04/QuicMart.git
+   git clone https://github.com/pulkitgxrg/QuicMart.git
    ```
    
 2. Navigate to the project folder:
